@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Georgia;
+}
+
+p {
+	width: 450px;
+	margin-left: 25px;
+	margin-right: auto;
+}
+
+h1 {
+	color: black;
+	font-family: Verdana;
+	background-color: #FFFFFF;
+}
+
+h3 {
+	color: black;
+	font-family: Verdana;
+	background-color: #FFFFFF;
+}
+
+img {
+	border: 5px solid white;
+	margin-right: 60px;
+}
+	
+div {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 10px solid white;
+}
+
